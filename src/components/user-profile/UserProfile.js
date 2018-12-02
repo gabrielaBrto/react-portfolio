@@ -12,7 +12,7 @@ const UserProfile = (props) => (
     </Row>
     <Row className="center-align">
       <h5>{props.title}</h5>
-      <p className="grey darken-2 white-text">Sabrina Spellman</p>
+      <p className="grey darken-2 white-text">Nome Usuário</p>
     </Row>
   </Card>
 );

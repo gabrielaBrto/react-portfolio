@@ -8,16 +8,16 @@ const Contact = () => (
       <UserProfile />
     </Col>
     <Col m={8} s={12}>
-      <h5>Contact</h5>
+      <h5>Contato</h5>
       <Card>
         <Row>
         <div class="input-field col s12">
           <input id="last_name" type="text" class="validate" />
-          <label for="last_name">Name</label>
+          <label for="last_name">Nome</label>
         </div>
         <div class="input-field col s12">
           <input id="last_name" type="text" class="validate" />
-          <label for="last_name">Message</label>
+          <label for="last_name">Mensagem</label>
         </div>
             <Col s={12} m={12}>
               <Button waves="light" className="right grey darken-4">ENVIAR</Button>
