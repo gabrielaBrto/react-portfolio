@@ -1,2 +1,2 @@
-#react-portfolio
-Web application using React to show a user portfolio.
+# react-portfolio
+React Native project to learn swipe animations.
